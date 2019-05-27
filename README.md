@@ -1,4 +1,4 @@
-Try Ironlinks on [Heroku](https://khan.github.io/KaTeX/):
+Try Ironlinks on [Heroku](https://ironlinks.herokuapp.com/):
 
 # IRONLINKS
 
@@ -14,4 +14,5 @@ The application is not 100% polished and in terms of ux/ui there are still some 
 - Minor bug fixes when creating new links
 - Search function with filter
 - Deployment
+- Let user set their own title?
 - Takedown of signing up new accounts after one week?
